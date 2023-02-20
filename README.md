@@ -1,5 +1,5 @@
 # Dummy data for logging in
-  Email: Cokitchen@gmail.co
+  Email: Cokitchen222@gmail.co
   Password: Bigman123
   
   
